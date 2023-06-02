@@ -1,0 +1,24 @@
+.navblock {
+  background-color: aquamarine;
+}
+
+.sideblock {
+  background-color: blueviolet;
+}
+
+.titleblock {
+  background-color: blue;
+}
+
+.contentblock {
+  background-color: brown;
+  height: 90vh;
+}
+
+.footblock {
+  background-color: bisque;
+}
+
+.content {
+  height: 90vh;
+}
